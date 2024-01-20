@@ -1,29 +1,41 @@
-# Hello, I'm Anatholy 👋
+<!-- Hello, I'm Anatholy -->
+<h1 align="center">Hello, I'm Anatholy 👋</h1>
 
-## About Me
-I'm a passionate developer based in [Your Location]. I love working on [specific technologies or projects]. Currently, I'm focused on [your current goals or projects].
+<!-- About Me -->
+<h3 align="center">A passionate developer based in France. I love working on Web projects. Currently, I'm focused on <a>.</h3>
 
-## Skills
-- Programming Languages: Java, Python, JavaScript
-- Web Development: HTML, CSS, React
-- Database: MySQL, MongoDB
-- Version Control: Git
+<!-- Profile views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnatholyB1&label=Profile%20views&color=0e75b6&style=flat" alt="AnatholyB1" /> </p>
 
-## Projects
-- **Project 1: Awesome Web App**
-  Description: A full-stack web app built with React and Node.js.
-  Technologies: React, Node.js, MongoDB
-  [View Project](https://github.com/yourusername/awesome-web-app)
+<!-- Twitter badge -->
+<p align="left"> <a href="https://twitter.com/yourtwitterhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="yourtwitterhandle" /></a> </p>
 
-- **Project 2: Data Analysis Tool**
-  Description: Python tool for data analysis and visualization.
-  Technologies: Python, Pandas, Matplotlib
-  [View Project](https://github.com/yourusername/data-analysis-tool)
+<!-- GIF -->
+<a target="_blank" align="center">
+  <img align="right" height="300" width="400" alt="GIF" src="https://github.com/AnatholyB1/AnatholyB1/blob/main/443433868030201.gif">
+</a>
 
-## Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+<!-- Work and Learning -->
+- 🔭 I’m currently working on [Your Current Project](https://github.com/yourusername/yourproject)
+- 🌱 I’m currently learning [Specific Technology or Skill](https://github.com/yourusername/yourlearningrepo)
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername)
+<!-- Contact -->
+- 📫 How to reach me **your.email@example.com**
 
-![GIF](https://th.bing.com/th/id/R.c6b3e26d3c7b3298e23b57a9fa916304?rik=wMf0Se%2bDODt88w&riu=http%3a%2f%2fwww.ddesignerr.com%2fwp-content%2fuploads%2f2012%2f05%2f029.gif&ehk=7xzygP11k8uERvbQeTwtiJT86CC5%2bR4djNJMKm6IciM%3d&risl=&pid=ImgRaw&r=0)
+<!-- Connect with me -->
+<h3 align="center">Connect with me 🤝 </h3>
+<p align="center">
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/yourlinkedinprofile/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+  <!-- Add other social icons as needed -->
+</p>
+
+
+
+<!-- GitHub Stats and Top Languages -->
+### GitHub Stats
+[![AnatholyB1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnatholyB1&show_icons=true&count_private=true&theme=radical)](https://github.com/AnatholyB1)
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatholyB1&theme=radical&hide_langs_below=8)](https://github.com/AnatholyB1)
+
