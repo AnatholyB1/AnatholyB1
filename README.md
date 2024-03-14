@@ -17,7 +17,7 @@
 
 <!-- Work and Learning -->
 - 🔭 I’m currently working on [Eido](https://github.com/AnatholyB1/eido)
-- 🌱 I’m currently learning [Project management certification]([https://github.com/yourusername/yourlearningrepo](https://www.pm-coaching.org/))
+- 🌱 I’m currently learning [Project management certification](https://github.com/yourusername/yourlearningrepo](https://www.pm-coaching.org/))
 
 <!-- Contact -->
 - 📫 How to reach me **anatholyb@gmail.com**
