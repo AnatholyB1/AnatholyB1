@@ -138,8 +138,8 @@ Hey, I'm **Anatholy** — a Full-Stack Developer from France who turns ideas int
   <img src="https://streak-stats.demolab.com?user=AnatholyB1&theme=tokyonight&hide_border=true" alt="streak stats" />
 </a>
 
-<a href="https://github.com/AnatholyB1">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnatholyB1&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnatholyB1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="trophies" />
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnatholyB1&theme=tokyo-night&hide_border=true" alt="activity graph" />
