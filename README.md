@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Anatholy%20Bricon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agents%20%C2%B7%20Web%20%26%20Mobile&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Anatholy%20Bricon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20-%20AI%20Agents%20-%20Web%20and%20Mobile&descAlignY=58&descSize=18)
 
 <a href="https://anatholy-bricon.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+based+in+France+%F0%9F%87%AB%F0%9F%87%B7;Building+AI+agents+%26+modern+web+apps;Founder+%40+anatholy-bricon.com;Available+for+freelance+missions" alt="Typing SVG" />
@@ -138,7 +138,7 @@ Hey, I'm **Anatholy** — a Full-Stack Developer from France who turns ideas int
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnatholyB1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnatholyB1&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnatholyB1&theme=tokyo-night&hide_border=true" alt="activity graph" />
@@ -176,7 +176,7 @@ I'm **open to freelance missions** — if you have an interesting project, let's
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer)
 
 <sub>⭐ Crafted with care by <a href="https://anatholy-bricon.com">Anatholy Bricon</a> — thanks for stopping by!</sub>
 
