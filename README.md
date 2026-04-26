@@ -119,7 +119,6 @@ Hey, I'm **Anatholy** — a Full-Stack Developer from France who turns ideas int
 | 🏢 **Anatholy Bricon** | My freelance studio — full-stack & AI development | [anatholy-bricon.com](https://anatholy-bricon.com) |
 | 🎨 **Selenium Studio** | Collaboration on creative web & product projects | [selenium-studio.com](https://selenium-studio.com) |
 | ⚽ **Ziko App** | A sports application currently in development | [ziko-app.com](https://ziko-app.com) |
-| 🚀 **Eido** | Open-source side project | [github.com/AnatholyB1/eido](https://github.com/AnatholyB1/eido) |
 
 </div>
 
